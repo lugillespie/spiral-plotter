@@ -1,5 +1,7 @@
 # plotter-sampler
 
+## About:
+A project that uses sound to influence the stroke of a plotted spiral shape, and sends drawing live to a pen plotter.
 ## Getting Started
 
 Open `index.html` in your web browser and start editing `sketch.js`.
